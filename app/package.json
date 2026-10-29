@@ -23,7 +23,7 @@
     "classnames": "^2.5.1",
     "collapse-whitespace": "^1.1.7",
     "debug": "github:emorikawa/debug#nylas",
-    "dompurify": "^3.3.1",
+    "dompurify": "^3.4.17",
     "emoji-data": "^0.2.0",
     "event-kit": "^1.0.2",
     "getmac": "^1.2.1",
